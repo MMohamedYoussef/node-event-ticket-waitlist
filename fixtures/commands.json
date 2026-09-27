@@ -1,0 +1,13 @@
+{
+  "capacity": 3,
+  "commands": [
+    { "type": "join", "id": "A" },
+    { "type": "join", "id": "B" },
+    { "type": "join", "id": "C" },
+    { "type": "join", "id": "D" },
+    { "type": "join", "id": "E" },
+    { "type": "cancel", "id": "B" },
+    { "type": "cancel", "id": "E" },
+    { "type": "join", "id": "F" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "capacity": 3,
+  "seated": [
+    "A",
+    "C",
+    "D"
+  ],
+  "waitlist": [
+    "F"
+  ],
+  "promotions": 1,
+  "history": [
+    {
+      "id": "A",
+      "action": "SEATED"
+    },
+    {
+      "id": "B",
+      "action": "SEATED"
+    },
+    {
+      "id": "C",
+      "action": "SEATED"
+    },
+    {
+      "id": "D",
+      "action": "WAITLISTED"
+    },
+    {
+      "id": "E",
+      "action": "WAITLISTED"
+    },
+    {
+      "id": "B",
+      "action": "CANCELLED_SEAT"
+    },
+    {
+      "id": "D",
+      "action": "PROMOTED"
+    },
+    {
+      "id": "E",
+      "action": "CANCELLED_WAITLIST"
+    },
+    {
+      "id": "F",
+      "action": "WAITLISTED"
+    }
+  ]
+}
